@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+C:\Users\Hertz\Desktop\zadaniedomowe\.metadata\.plugins\org.eclipse.jdt.core
+2791159672.index
