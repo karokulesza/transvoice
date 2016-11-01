@@ -1,6 +1,9 @@
 package com.axwave.housework.transvoice;
 
-public interface DataProvider {
+import java.io.InputStream;
 
-	byte[] getNextBytes();
+public interface DataProvider {
+	
+	InputStream getInputStream();
+
 }
